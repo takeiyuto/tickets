@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/takeiyuto/ticket-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/takeiyuto/ticket-frontend.git
+[submodule "contracts"]
+	path = blockchain
+	url = https://github.com/takeiyuto/ticket-contract.git
